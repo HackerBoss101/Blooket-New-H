@@ -1,6 +1,6 @@
-# Blooket-new-H(acks)
+# Blooket-H(acks)
 
-Works for hackin blooket.
+Works for hacking blooket.
 
 ## Instructions:
 1. Open `gui.js`
