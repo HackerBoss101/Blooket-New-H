@@ -3,16 +3,16 @@
 Works for hackin blooket.
 
 ## Instructions:
-1. open `gui.js`
+1. Open `gui.js`
 2. click on the text
-3. press `Ctrl` `a`
-4. press `Ctrl` `c`
+3. Press `Ctrl` `a`
+4. Press `Ctrl` `c`
 5. Go to blooket
-6. press `Ctrl` `Shift` `j` and paste into the console.
+6. Press `Ctrl` `Shift` `j` and paste into the console.
   
    *You may need to allow pasting, so type: `allow pasting`*
    
 9. Press `ok` on the popup and close the console.
-10. ready to play! 
+10. Ready to play! 
 
 for peope who liked it
