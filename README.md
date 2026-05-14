@@ -1,4 +1,4 @@
-# Blooket-H(acks)
+# Blooket-H(acker)
 
 Works for hacking blooket.
 
